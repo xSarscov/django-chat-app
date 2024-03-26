@@ -1,0 +1,30 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #eee;
+}
+
+.card {
+    height: 100%;
+}
+
+@media screen and (max-width: 767px) {
+    .menu {
+        display: block !important;
+        font-size: 1.5rem;
+    }
+
+    #avatar {
+        display: none;
+    }
+
+    .chats {
+        display: none;
+    }
+}
