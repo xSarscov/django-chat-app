@@ -1,7 +1,3 @@
-Here is a template for your README file for the Django chat application using websockets:
-
----
-
 # Django Chat App
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -41,6 +37,12 @@ This is a real-time chat application built using Django and Channels, allowing u
    python manage.py runserver
    ```
 7. Open your web browser and visit http://localhost:8000 to use the chat application.
+
+---
+
+![preview](https://github.com/xSarscov/django-chat-app/assets/110932159/084c8f82-3e09-4b46-b102-ffdb4b75dbb2)
+
+---
 
 ## Usage
 - Upon visiting the application, users can create a new room by providing their username and the room name, or they can choose to join an existing room.
